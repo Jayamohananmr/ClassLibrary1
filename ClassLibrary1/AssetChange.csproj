@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssetChangeProcess</RootNamespace>
     <AssemblyName>AssetChange</AssemblyName>
-  </PropertyGroup>
+  </PropertyGroup>ddd
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
